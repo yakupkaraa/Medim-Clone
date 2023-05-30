@@ -1,0 +1,20 @@
+.bg-yellow{
+    background-color: #FFC017;
+}
+.border-bottom-dark{
+    border-bottom:1px solid rgba(41,41,41,1);
+}
+.font{
+    font-family: 'Playfair', serif;
+}
+.button-radius{
+    border-radius: 20px;
+}
+li{
+    margin-left: 15px;
+}
+article{
+    padding-top: 10px;
+}
+
+    
